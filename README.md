@@ -1,2 +1,2 @@
 # movie_db
-Using MMV and Digger2
+Using MVVM and Digger2
